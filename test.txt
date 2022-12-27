@@ -1,1 +1,7 @@
-document test git
+git commands :
+
+clone -> bring repository that is gosted somewhere like Github into a folder  on your local machine
+add -> track your files and and changes in git
+commit -> save your files in Git
+push -> upload Git commits to a remote repo , like github
+pull -> Download changes from remote repo to your local machine m the opossite of push
